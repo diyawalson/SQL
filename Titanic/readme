@@ -1,1 +1,22 @@
+Insights
+-- ===================================================== -- TITANIC DATASET - FINAL INSIGHTS -- =====================================================
 
+-- 1. Overall Insight -- Survival was generally low and strongly influenced by social and demographic factors.
+
+-- 2. Gender Insight -- Females had a significantly higher survival rate compared to males, -- showing that women were prioritized during evacuation.
+
+-- 3. Passenger Class Insight -- 1st class passengers had the highest survival rate, -- while 3rd class passengers had the lowest survival rate.
+
+-- 4. Age Insight -- Children had higher survival rates compared to adults and seniors, -- indicating priority given to younger passengers.
+
+-- 5. Fare Insight -- Higher fare passengers (wealthier individuals) had better survival chances, -- showing a strong link between wealth and survival.
+
+-- 6. Family Size Insight -- Passengers traveling in small families had better survival rates, -- while those alone or in large families had lower survival chances.
+
+-- 7. Embarkation Insight -- Embarkation port had a minor influence on survival compared to class, gender, and age.
+
+-- 8. Combined Factors Insight -- The highest survival group was: Female + 1st Class + Young Age Group.
+
+-- 9. Riskiest Group Insight -- The lowest survival group was: Male + 3rd Class + Adult Age Group.
+
+-- 10. Final Conclusion -- Survival depended mainly on gender, passenger class, and age, -- reflecting social hierarchy during the Titanic disaster.
